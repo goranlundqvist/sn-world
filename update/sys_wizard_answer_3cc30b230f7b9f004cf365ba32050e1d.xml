@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Todo</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Todo</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">e8cad1555d121300651727c3e282e84b</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-14 19:34:28</sys_created_on>
+        <sys_id>3cc30b230f7b9f004cf365ba32050e1d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Todo</sys_name>
+        <sys_package display_value="SN world" source="x_8294_sn_world">497383af0f3b9f004cf365ba32050e81</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SN world">497383af0f3b9f004cf365ba32050e81</sys_scope>
+        <sys_update_name>sys_wizard_answer_3cc30b230f7b9f004cf365ba32050e1d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-14 19:34:28</sys_updated_on>
+        <table/>
+        <target_url>x_8294_sn_world_todo.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

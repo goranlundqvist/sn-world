@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Todo" max_length="40" name="x_8294_sn_world_todo" type="collection"/>
+</database>
